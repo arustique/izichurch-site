@@ -1,0 +1,4 @@
+{
+  "version": "1.0.0",
+  "note": "Verifie par l'application IziChurch Android au demarrage (voir checkForAppUpdate dans www/renderer.js du depot izichurch-android). Mettre a jour ce fichier a chaque nouvelle version publiee de l'APK."
+}
